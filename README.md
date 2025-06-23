@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ## Datasets
 All the dataset are downloaded from
 ```bash
-https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
+[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html)
 ```
 The data spilts are the same with [here](https://github.com/diningphil/gnn-comparison).
