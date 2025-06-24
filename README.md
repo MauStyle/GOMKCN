@@ -14,3 +14,7 @@ All the dataset are downloaded from
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html)
 ```
 The data spilts are the same with [here](https://github.com/diningphil/gnn-comparison).
+## Test Run
+```bash
+python lancher - ENZYMES.py
+```
