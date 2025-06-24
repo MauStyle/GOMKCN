@@ -16,5 +16,5 @@ All the dataset are downloaded from
 The data spilts are the same with [here](https://github.com/diningphil/gnn-comparison).
 ## Test Run
 ```bash
-python lancher - ENZYMES.py
+python run-ENZYMES.py
 ```
