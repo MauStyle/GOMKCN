@@ -1,5 +1,5 @@
 # GOMKCN: Substructure-Learnable Graph Disentangled Representation based on Optimal Matching Kernel
-This repository is the official PyTorch implementation of "Substructure-Learnable Graph Disentangled Representation based on Optimal Matching Kernel", Mao Wang, Tao Wu, Xingping Xian, Chao Wang, Lin Yuan, Canyixing Cui, Weina Niu [link] (https://arxiv.org/abs/2504.16360).
+This repository is the official PyTorch implementation of "Substructure-Learnable Graph Disentangled Representation based on Optimal Matching Kernel" [link] (https://arxiv.org/abs/2504.16360).
 
 ## Installation
 Install PyTorch following the instuctions on the [official website] (https://pytorch.org/). The code has been tested over PyTorch 2.5.1 version.
