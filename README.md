@@ -21,4 +21,4 @@ python run-ENZYMES.py
 ```
 
 ## Acknowledgments
-Thanks to the authors of the academic papers on kerGNN, RWK<sup>+</sup>CN, and GKNN, as well as the developers of the software platforms PyTorch, PyG, TUDataset, and torch-linear-assignment. Their research and valuable tools have provided invaluable reference and assistance for the implementation of this project.
+Thanks to the authors of the academic papers on kerGNN, RWK<sup>+</sup>CN, and GKNN, as well as the developers of the software platforms PyTorch, PyG, TUDataset, and torch-linear-assignment. Their research and tools have provided invaluable reference and assistance for the implementation of this project.
