@@ -6,8 +6,8 @@ Install the other dependencies.
 pip install -r requirements.txt
 ```
 ## Datasets
-All datasets will be automatically downloaded from the TUDataset platform via the provided source code.
-For node classification tasks, the training, validation, and test sets are randomly split.
+All datasets will be automatically downloaded from the TUDataset platform via the PyG source code.
+For node classification tasks, the training, validation, and testing sets are randomly split.
 For graph classification tasks, the data spilts are the same with [here](https://github.com/diningphil/gnn-comparison).
 
 ## Test Run
